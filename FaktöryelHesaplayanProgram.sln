@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaktöryelHesaplayanProgram", "FaktöryelHesaplayanProgram.csproj", "{1E22F904-950C-4FC1-82A7-E92F3EF05DF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E22F904-950C-4FC1-82A7-E92F3EF05DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E22F904-950C-4FC1-82A7-E92F3EF05DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E22F904-950C-4FC1-82A7-E92F3EF05DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E22F904-950C-4FC1-82A7-E92F3EF05DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED8F92F1-33EC-4043-B51E-D22345355B9D}
+	EndGlobalSection
+EndGlobal
